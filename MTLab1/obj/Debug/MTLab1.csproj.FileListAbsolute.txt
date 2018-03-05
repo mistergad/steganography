@@ -1,0 +1,28 @@
+c:\users\vadik\onedrive\документы\visual studio 2017\Projects\MTLab1\MTLab1\bin\Debug\MTLab1.exe.config
+c:\users\vadik\onedrive\документы\visual studio 2017\Projects\MTLab1\MTLab1\bin\Debug\MTLab1.exe
+c:\users\vadik\onedrive\документы\visual studio 2017\Projects\MTLab1\MTLab1\bin\Debug\MTLab1.pdb
+c:\users\vadik\onedrive\документы\visual studio 2017\Projects\MTLab1\MTLab1\obj\Debug\MTLab1.csprojResolveAssemblyReference.cache
+c:\users\vadik\onedrive\документы\visual studio 2017\Projects\MTLab1\MTLab1\obj\Debug\MTLab1.Form1.resources
+c:\users\vadik\onedrive\документы\visual studio 2017\Projects\MTLab1\MTLab1\obj\Debug\MTLab1.Properties.Resources.resources
+c:\users\vadik\onedrive\документы\visual studio 2017\Projects\MTLab1\MTLab1\obj\Debug\MTLab1.csproj.GenerateResource.Cache
+c:\users\vadik\onedrive\документы\visual studio 2017\Projects\MTLab1\MTLab1\obj\Debug\MTLab1.exe
+c:\users\vadik\onedrive\документы\visual studio 2017\Projects\MTLab1\MTLab1\obj\Debug\MTLab1.pdb
+C:\Users\user\Google Диск\Лабы\Курс 4\Мультимедиа технологий\Лаб 1\MTLab1\MTLab1\bin\Debug\MTLab1.exe.config
+C:\Users\user\Google Диск\Лабы\Курс 4\Мультимедиа технологий\Лаб 1\MTLab1\MTLab1\obj\Debug\MTLab1.exe
+C:\Users\user\Google Диск\Лабы\Курс 4\Мультимедиа технологий\Лаб 1\MTLab1\MTLab1\obj\Debug\MTLab1.pdb
+C:\Users\user\Google Диск\Лабы\Курс 4\Мультимедиа технологий\Лаб 1\MTLab1\MTLab1\bin\Debug\MTLab1.exe
+C:\Users\user\Google Диск\Лабы\Курс 4\Мультимедиа технологий\Лаб 1\MTLab1\MTLab1\bin\Debug\MTLab1.pdb
+C:\Users\user\Google Диск\Лабы\Курс 4\Мультимедиа технологий\Лаб 1\MTLab1\MTLab1\obj\Debug\MTLab1.csprojResolveAssemblyReference.cache
+C:\Users\user\Google Диск\Лабы\Курс 4\Мультимедиа технологий\Лаб 1\MTLab1\MTLab1\obj\Debug\MTLab1.Form1.resources
+C:\Users\user\Google Диск\Лабы\Курс 4\Мультимедиа технологий\Лаб 1\MTLab1\MTLab1\obj\Debug\MTLab1.Properties.Resources.resources
+C:\Users\user\Google Диск\Лабы\Курс 4\Мультимедиа технологий\Лаб 1\MTLab1\MTLab1\obj\Debug\MTLab1.csproj.GenerateResource.Cache
+C:\Users\audi-\Desktop\Лаб 1\MTLab1\MTLab1\bin\Debug\MTLab1.exe.config
+C:\Users\audi-\Desktop\Лаб 1\MTLab1\MTLab1\bin\Debug\MTLab1.exe
+C:\Users\audi-\Desktop\Лаб 1\MTLab1\MTLab1\bin\Debug\MTLab1.pdb
+C:\Users\audi-\Desktop\Лаб 1\MTLab1\MTLab1\obj\Debug\MTLab1.csprojResolveAssemblyReference.cache
+C:\Users\audi-\Desktop\Лаб 1\MTLab1\MTLab1\obj\Debug\MTLab1.Form1.resources
+C:\Users\audi-\Desktop\Лаб 1\MTLab1\MTLab1\obj\Debug\MTLab1.Properties.Resources.resources
+C:\Users\audi-\Desktop\Лаб 1\MTLab1\MTLab1\obj\Debug\MTLab1.csproj.GenerateResource.Cache
+C:\Users\audi-\Desktop\Лаб 1\MTLab1\MTLab1\obj\Debug\MTLab1.csproj.CoreCompileInputs.cache
+C:\Users\audi-\Desktop\Лаб 1\MTLab1\MTLab1\obj\Debug\MTLab1.exe
+C:\Users\audi-\Desktop\Лаб 1\MTLab1\MTLab1\obj\Debug\MTLab1.pdb
